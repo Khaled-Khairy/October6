@@ -8,7 +8,7 @@ A scalable, high-performance e-learning mobile application built with Flutter fo
 
 ## 🚀 Demo Video
 
-[![Watch the Demo]](https://vimeo.com/1082519941/aac489d09d?share=copy)
+[Watch the Demo](https://vimeo.com/1082519941/aac489d09d?share=copy)
 
 ---
 
