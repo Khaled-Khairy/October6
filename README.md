@@ -14,9 +14,9 @@ A scalable, high-performance e-learning mobile application built with Flutter fo
 
 ## 📸 Screenshots
 
-| Home Screen | Course Detail | Live Chat |
-|:-----------:|:-------------:|:---------:|
-| ![Home](assets/الرئيسية.png) | ![Detail](./assets/screenshots/detail.png) | ![Chat](./assets/screenshots/chat.png) |
+| Home Screen | Course Detail |           Settings           |
+|:-----------:|:-------------:|:----------------------------:|
+| ![Home](assets/الرئيسية.png) | ![Detail](assets/تفاصيل الخدمات السياحية و الفندقية.png) | ![Chat](assets/الكورسات.png) |
 
 ---
 
