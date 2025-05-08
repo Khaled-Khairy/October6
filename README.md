@@ -1,6 +1,6 @@
 # October6 E-Learning App
 
-![October6 Logo](./assets/logo.png)
+![October6 Logo](.logo_with_text.png)
 
 A scalable, high-performance e-learning mobile application built with Flutter for Android and iOS. October6 connects students and instructors with seamless course delivery, real-time communication, and secure data handling.
 
